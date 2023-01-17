@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <h2> hi man of the god</h2>
       </header>
     </div>
   );
